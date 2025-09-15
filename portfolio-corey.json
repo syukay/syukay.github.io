@@ -1,0 +1,183 @@
+{
+  "name": "Amanda Xiong",
+  "label": "DevOps Engineer",
+  "image_path": "portfolio_media/profile.jpg",
+  "contact": {
+    "email": "syukay00789@gmail.com",
+    "phone": "(+61) 457318221",
+    "location": "Mascot, Sydney"
+  },
+  "summary": "I’m a DevOps and Software Engineer with years of experience streamlining deployments and building secure, reliable systems in finance and digital payments.",
+  "url": "https://coreyms.com",
+  "social_links": [
+   
+    {
+      "label": "YouTube",
+      "url": "https://www.youtube.com/@SyukayXiong",
+      "svg_path": "img/youtube.svg"
+    },
+
+    {
+      "label": "Github",
+      "url": "https://github.com/syukay",
+      "svg_path": "img/github.svg"
+    },
+     {
+      "label": "Linkedin",
+      "url": "https://www.linkedin.com/in/xueqi2025/",
+      "svg_path": "img/linkedin.svg"
+    }
+  ],
+  "work_experience": [
+    {
+      "company": "Prezzee (Digital Gift Card Platform)",
+      "position": "DevOps Engineer",
+      "url": "https://www.prezzee.com.au/",
+      "start_date": "2024.12",
+      "end_date": "2025.6",
+      "summary": "",
+      "highlights": [
+        "Standardized AWS infrastructure with Terraform and Terragrunt across accounts and regions.",
+        "Automated AWS security checks with Python, cutting audits by 70% and ensuring compliance.",
+        "Migrated GitHub Actions CI/CD pipelines to multi-env—boosting weekly deploymentsby 40%.",
+        "Redesigned DynamoDB backup validation with Step Functions and Lambdas, ensuring reliable monthly checks."
+
+      ]
+    },
+    {
+      "company": "JR Academy",
+      "position": "DevOps Engineer",
+      "url": "https://jiangren.com.au/",
+      "start_date": "2024.6",
+      "end_date": "2024.11",
+      "summary": "",
+      "highlights": [
+        "Provided technical support, investigated incidents, and troubleshot for developers on AWS.",
+        "Revamped Jenkins with SonarQube, OWASP, and Trivy, refactoring via ArgoCD, EKS, and Kubernetes.",
+        "Deployed microservices on Kubernetes with Docker and MongoDB, ensuring reliable performance.",
+        "Monitored containers with Prometheus and Grafana, adding alerts and dashboards for real-time insights."
+      ]
+    },
+    {
+      "company": "China Guangfa Bank",
+      "position": "DevOps Engineer",
+      "url": "https://www.cgbchina.com.cn/Info/12307645",
+      "start_date": "2021.12",
+      "end_date": "2023.1",
+      "summary": "",
+      "highlights": [
+        "Resolved production issues in Linux-based systems, ensuring timely recovery.",
+        "Configured CI/CD pipelines with quality gates to maintain 24/7 business continuity.",
+        "Implemented testing, health checks, DB upgrades, and disaster recovery with Oracle Data Guard.",
+        "Automated post-deployment health checks with Bash, improving system reliability."
+      ]
+    },
+    {
+      "company": "China Guangfa Bank",
+      "position": "Software Engineer",
+      "url": "https://www.cgbchina.com.cn/Info/12307645",
+      "start_date": "2020.11",
+      "end_date": "2021.11",
+      "summary": "",
+      "highlights": [
+        "Developed a Java Spring Boot data gateway to decode ISO8583 packets from IBM mainframe and forward them via TCP/IP, Kafka, and RocketMQ.",
+        "Optimized slow SQL problem based on monitoring feedback from the production Oracle database.",
+        "Managed monthly release pipelines with user whitelisting for canary production releases.",
+        "Managed DEV, SIT, UAT, and Production environments."
+      ]
+    }
+  ],
+  "projects": [
+    {
+      "title": "Educational Content Creator on YouTube",
+      "summary": "Channel focused on creating tutorials and walkthroughs for software developers, programmers, and engineers.",
+      "url": "https://www.youtube.com/@SyukayXiong"
+    }
+  ],
+  "volunteer_experience": [
+    {
+      "organization": "Beach Ocean Safe Program",
+      "position": "Student Ambassador",
+      "url": "https://www.unsw.edu.au/student/support/health-wellbeing/general-medical-health/water-safety/beach-safety-program#:~:text=The%20Beach%20Ocean%20Safety%20(BOS,beach%20culture%20has%20to%20offer.",
+      "start_date": "2023.9",
+      "end_date": "2023.10",
+      "summary": "Completed a three-week ocean safety program at Bondi Beach, Sydney, gaining practical and theoretical skills in beach and surf safety.",
+      "highlights": [      
+        "Learned floating techniques in rips and waves",
+      "Trained in basic CPR and first aid",
+      "Practiced escaping from rip currents"]
+    }
+  ],
+  "education": [
+    {
+      "institution": "The University of New South Wales",
+      "location": "Sydney, AU",
+      "url": "https://www.unsw.edu.au/",
+      "degrees": [
+        "Master of Information Technology"
+      ],
+      "honors": [
+        "Design and Analysis of Algorithms",
+        "Principles of Remote Sensing",
+        "Cryptocurrency and Distributed Ledger",
+        "Securing Fixed and Wireless Networks"
+      ],
+      "graduation_date": "2024.6"
+    }
+  ],
+  "skills": [
+        {
+      "name": "AWS Services, IaC, CI/CD, Kubernetes",
+      "proficiency": 100,
+      "proficiency_label": "Expert"
+    },
+    {
+      "name": "Java, Python, Flask, Django",
+      "proficiency": 90,
+      "proficiency_label": "Advanced"
+    },
+    {
+      "name": "System Administration, Linux",
+      "proficiency": 90,
+      "proficiency_label": "Advanced"
+    }
+  ],
+    "languages": [
+    {
+      "language": "English",
+      "fluency": "Professional Working Proficiency"
+    },
+    {
+      "language": "Mandarine",
+      "fluency": "Native"
+    },
+        {
+      "language": "Cantonese",
+      "fluency": "Native"
+    }
+  ],
+  "interests": [
+    {
+      "name": "",
+      "summary": "",
+      "images": [
+        {
+          "img_path": "portfolio_media/ww1.jpg",
+          "caption": "3D-printed Charybdis 4×6 wireless ergonomic keyboard"
+        }
+      ]
+    },
+    {
+      "name": "",
+      "summary": "",
+      "images": [
+        {
+          "img_path": "portfolio_media/yt7.jpg",
+          "caption": "Indoor rock climbing"
+        }
+      ]
+    }
+  ],
+  "languages": [],
+  "references": []
+}
