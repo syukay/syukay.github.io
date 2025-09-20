@@ -32,8 +32,8 @@
       "company": "Prezzee (Digital Gift Card Platform)",
       "position": "DevOps Engineer",
       "url": "https://www.prezzee.com.au/",
-      "start_date": "2024.12",
-      "end_date": "2025.6",
+      "start_date": "2024",
+      "end_date": "2025",
       "summary": "",
       "highlights": [
         "Standardized AWS infrastructure with Terraform and Terragrunt across accounts and regions.",
@@ -44,25 +44,37 @@
       ]
     },
     {
-      "company": "JR Academy",
-      "position": "DevOps Engineer",
-      "url": "https://jracademy.ai/",
-      "start_date": "2024.6",
-      "end_date": "2024.11",
+      "company": "Noritsu Precision Australia",
+      "position": "DevOps Engineer Intern",
+      "url": "http://www.noritsu.com.au/",
+      "start_date": "2024",
+      "end_date": "2024",
       "summary": "",
       "highlights": [
-        "Provided technical support, investigated incidents, and troubleshot for developers on AWS.",
         "Revamped Jenkins with SonarQube, OWASP, and Trivy, refactoring via ArgoCD, EKS, and Kubernetes.",
         "Deployed microservices on Kubernetes with Docker and MongoDB, ensuring reliable performance.",
         "Monitored containers with Prometheus and Grafana, adding alerts and dashboards for real-time insights."
+      ]
+    },
+        {
+      "company": "JR Academy",
+      "position": "DevOps Engineer Intern",
+      "url": "https://jracademy.ai/",
+      "start_date": "2024",
+      "end_date": "2024",
+      "summary": "",
+      "highlights": [
+        "Provided technical support, investigated incidents, and troubleshot for developers on AWS.",
+        "Identifying cost savings and code security enhancements for efficiency improvement.",
+        "Resolved customer issues related to cloud infrastructure, data migration, and software development align with best practices for the security and reliability of cloud environments."
       ]
     },
     {
       "company": "China Guangfa Bank",
       "position": "DevOps Engineer",
       "url": "https://www.cgbchina.com.cn/Info/12307645",
-      "start_date": "2021.12",
-      "end_date": "2023.1",
+      "start_date": "2021",
+      "end_date": "2023",
       "summary": "",
       "highlights": [
         "Resolved production issues in Linux-based systems, ensuring timely recovery.",
@@ -75,8 +87,8 @@
       "company": "China Guangfa Bank",
       "position": "Software Engineer",
       "url": "https://www.cgbchina.com.cn/Info/12307645",
-      "start_date": "2020.11",
-      "end_date": "2021.11",
+      "start_date": "2020",
+      "end_date": "2021",
       "summary": "",
       "highlights": [
         "Developed a Java Spring Boot data gateway to decode ISO8583 packets from IBM mainframe and forward them via TCP/IP, Kafka, and RocketMQ.",
