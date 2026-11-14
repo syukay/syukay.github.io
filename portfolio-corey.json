@@ -28,6 +28,21 @@
     }
   ],
   "work_experience": [
+       {
+      "company": "Deloitte",
+      "position": "Senior Consultant",
+      "url": "https://www.deloitte.com/au/en.html",
+      "start_date": "2025",
+      "end_date": "2026",
+      "summary": "",
+      "highlights": [
+        "Designed and implemented event-driven workflows on Kubernetes for a leading investment bank, leveraging Argo Workflows, Argo Events and AWS SQS to automate message-driven execution and enterprise integrations with SailPoint and Collibra.",
+        "Developed backend REST APIs using GitHub Copilot for message validation, transformation and integration with enterprise platforms, including SailPoint and Collibra, improving identity and access management workflows.",
+        "Improved application reliability through functional and non-functional testing, input validation and error handling, while resolving AWS IAM and SNS integration issues to strengthen secure service-to-service communication and enforce least-privilege access controls.",
+        "Designed an on-premises OpenTelemetry Collector PoC for a large Australian insurer, integrating Bindplane, HashiCorp Vault and DigiCert mTLS, alongside a GitOps-based deployment pipeline connecting GitHub, Bindplane and OpenTelemetry Collectors.",
+        "Developed an end-to-end observability PoC on AWS EKS using Terraform, GitHub Actions and Python-based Syslog/SNMP simulators, leveraging Claude for solution design and AI-assisted development to validate telemetry ingestion and delivery to Amazon S3."
+      ]
+    },
     {
       "company": "Prezzee (Digital Gift Card Platform)",
       "position": "DevOps Engineer",
@@ -41,32 +56,6 @@
         "Migrated GitHub Actions CI/CD pipelines to multi-env—boosting weekly deploymentsby 40%.",
         "Redesigned DynamoDB backup validation with Step Functions and Lambdas, ensuring reliable monthly checks."
 
-      ]
-    },
-    {
-      "company": "Noritsu Precision Australia",
-      "position": "DevOps Engineer",
-      "url": "http://www.noritsu.com.au/",
-      "start_date": "2024",
-      "end_date": "2024",
-      "summary": "",
-      "highlights": [
-        "Revamped Jenkins with SonarQube, OWASP, and Trivy, refactoring via ArgoCD, EKS, and Kubernetes.",
-        "Deployed microservices on Kubernetes with Docker and MongoDB, ensuring reliable performance.",
-        "Monitored containers with Prometheus and Grafana, adding alerts and dashboards for real-time insights."
-      ]
-    },
-        {
-      "company": "JR Academy",
-      "position": "DevOps Engineer Intern",
-      "url": "https://jracademy.ai/",
-      "start_date": "2024",
-      "end_date": "2024",
-      "summary": "",
-      "highlights": [
-        "Provided technical support, investigated incidents, and troubleshot for developers on AWS.",
-        "Identifying cost savings and code security enhancements for efficiency improvement.",
-        "Resolved cloud infrastructure, data migration, and software development issues, ensuring security and reliability best practices."
       ]
     },
     {
@@ -189,6 +178,6 @@
       ]
     }
   ],
-  "languages": [],
+  "languages": ["English", "Mandarine", "Cantonese"],
   "references": []
 }
